@@ -6,20 +6,14 @@
 
 [gotham_repo]: https://github-readme-stats.vercel.app/api/pin/?username=JeromeMTR&repo=github-readme-stats&cache_seconds=86400&theme=gotham
 
-<p>
-<span>
-<img src='/assets/photos/productoverview.png' width='40%' align='left'/>
-</span>
-<span align='right'>
-Questions & Answers Service
-</span>
-</p>
+<h2 align='center' paddingBottom='10px'> Projects </h2>
 
+Rhydon                       |             Typo
+  :-------------------------:|:-------------------------:
+<img src='/assets/photos/productoverview.png'  width='75%' align='center'> </img>  |  ![typo](/assets/photos/15seconds.png )
 
-<div display='flex' justifyContent='space-between' width='100%'>
-<span align='left'>
-</span>
-<span align='right'>
-Typo
-</span>
-</div>
+Rhydon                       |             Typo
+  :-------------------------:|:-------------------------:
+<img src='/assets/photos/productoverview.png'  width='75%' align='center'> </img>  |  ![typo](/assets/photos/15seconds.png )
+
+<h2 align='center' paddingBottom='10px'> Tech Stack </h2>
