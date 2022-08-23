@@ -5,3 +5,22 @@
 </p>
 
 [gotham_repo]: https://github-readme-stats.vercel.app/api/pin/?username=JeromeMTR&repo=github-readme-stats&cache_seconds=86400&theme=gotham
+
+<p>
+<span align='left'>
+<img src='/assets/photos/productoverview.png' width='40%' align='right'/>
+</span>
+<span align='right'>
+Questions & Answers Service
+</span>
+</p>
+
+
+<div display='flex' justifyContent='space-between' width='100%'>
+<span align='left'>
+Rhydon
+</span>
+<span align='right'>
+Typo
+</span>
+</div>
