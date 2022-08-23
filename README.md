@@ -13,7 +13,7 @@ Rhydon                       |       Questions & Answers Service
   :-------------------------:|:-------------------------:
 <img src=/assets/photos/productoverview.png  width='75%' align='center'> </img>  |  ![typo](/assets/photos/maxALoadBalancer.png )
 
-[Boundless](https://github.com/JeromeMTR/.git) (Front End)                       |             Typo
+[Rhydon](https://github.com/JeromeMTR/Rhydon.git) (Front End)                       |             Typo
   :-------------------------:|:-------------------------:
 <img src=/assets/photos/productoverview.png  width='75%' align='center'> </img>  |  ![typo](/assets/photos/15seconds.png )
 
