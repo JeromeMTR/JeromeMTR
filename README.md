@@ -8,9 +8,10 @@
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
-[GoalSeekr](https://github.com/AzureSource/GoalSeekr.git) [Full Stack]|[Questions & Answers Service](https://github.com/Elemental-Designs/QA-Service.git)
+[GoalSeekr](https://github.com/AzureSource/GoalSeekr.git) [Full Stack] |[Questions & Answers Service](https://github.com/Elemental-Designs/QA-Service.git) [Back End]
   :-------------------------:|:-------------------------:
-<img src=/assets/photos/productoverview.png  width='75%' align='center'> </img>  |  ![service](/assets/photos/maxALoadBalancer.png ) [Back End]
+<img src=/assets/photos/goalseekrtemp.png width='95%' align='center'> </img>  |  ![service](/assets/photos/maxALoadBalancer.png )
+
 [Rhydon](https://github.com/JeromeMTR/Rhydon.git) [Front End]         |    [Typo](https://github.com/JeromeMTR/Typo.git) [Full Stack]
   :-------------------------:|:-------------------------:
 <img src=/assets/photos/productoverview.png  width='75%' align='center'> </img>  |  ![typo](/assets/photos/15seconds.png )
