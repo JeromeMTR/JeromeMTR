@@ -1,7 +1,7 @@
 <h1 align='center' paddingBottom='10px'> Hii, I'm Jerome 👨🏽‍💻 </h1>
 
 <p align='center'>
-  <a href="mailto: jeromemtrodriguez@gmail.com">
+  <a href="mailto:jeromemtrodriguez@gmail.com">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="jeromemtrodriguez@gmail.com/">
