@@ -3,7 +3,7 @@
 <p align='center'><b>Check out my portfolio, it's cooler than my README 😎</b></p>
 
 <p align='center'>
-  <a href="https:/jeromemtr.com" align='center'>
+  <a href="https://jeromemtr.com" align='center'>
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   </a>
   <a href="https://www.linkedin.com/in/jeromemtrodriguez/">
