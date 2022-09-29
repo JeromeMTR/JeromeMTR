@@ -23,7 +23,7 @@
 
 [GoalSeekr](https://github.com/AzureSource/GoalSeekr.git) [Full Stack] |[Questions & Answers Service](https://github.com/Elemental-Designs/QA-Service.git) [Back End]
   :-------------------------:|:-------------------------:
-![](/assets/photos/temp.png) |  ![service](/assets/photos/maxALoadBalancer.png )
+![temporary-goalseekr-photo](/assets/photos/temp.png) |  ![service](/assets/photos/maxALoadBalancer.png )
 
 [Rhydon](https://github.com/JeromeMTR/Rhydon.git) [Front End]         |    [Typo](https://github.com/JeromeMTR/Typo.git) [Full Stack]
   :-----------------------:|:-------------------------:
