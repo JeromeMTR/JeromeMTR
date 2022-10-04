@@ -16,7 +16,8 @@
 </p> 
 
 <p align=center>
-<img src=https://github-readme-stats.vercel.app/api?username=JeromeMTR&theme=gotham&show_icons=true />
+<a href="http://www.github.com/jeromemtr"><img src="https://github-readme-stats.vercel.app/api?username=jeromemtr&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="jeromemtr's GitHub stats" /></a>
+<a href="http://www.github.com/heemo521"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromemtr&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 </p>
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
